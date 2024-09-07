@@ -344,10 +344,10 @@ I'm drawn to the endless possibilities offered by game development. The ability 
     </tr>
     <tr>
       <td align="center">
-       <img src="https://github.com/KenanGain/KenanGain/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
+       <img src="https://github.com/DragonelGaming/DragonelGaming/blob/main/PayPal_QRCode.png" alt="PayPal QR Code" width="150" height="150">
       </td>
       <td align="center">
-        <img src="https://storage.ko-fi.com/cdn/useruploads/M4M410M65J/qrcode.png?v=73a1af41-4248-463b-a7e8-77530b34d420?v=2" alt="Ko-fi QR Code" width="150" height="150">
+        <img src="https://github.com/DragonelGaming/DragonelGaming/blob/main/Kofi_QRCode.png" alt="Ko-fi QR Code" width="150" height="150">
       </td>
     </tr>
   </table>
