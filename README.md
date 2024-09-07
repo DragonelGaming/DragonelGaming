@@ -1,4 +1,4 @@
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Dragonel Gaming</h1>
+<h1 align="center"><a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> Hello, I'm Dragonel Gaming</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Science;Game+Developer;AI+Engineer;AI+Annotator;YouTuber;Game+Modder;Video+Editor;" alt="Typing SVG" />
@@ -13,34 +13,34 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square" alt="knightgamer87">
+      <a href="https://www.youtube.com/@DragonelGaming" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40DragonelGaming&subtitle=@DragonelGaming&size=square" alt="DragonelGaming">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
+      <a href="https://www.tiktok.com/@dragonelgaming" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.tiktok.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@dragonelgaming&size=square" alt="Kenan Gain">
       </a>
     </td>
     <td align="center">
-      <a href="https://facebook.com/kenan.gain" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
+      <a href="https://www.facebook.com/SonicDash5733" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=Dragonel+Gaming&size=square" alt="Dragonel Gaming">
       </a>
     </td>
   </tr>
     <td align="center">
-      <a href="https://www.reddit.com/user/Automated_Artistry" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/Automated_Artistry&size=square" alt="Automated_Artistry">
+      <a href="mailto:dinh5609@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=dinh5609@gmail.com&size=square" alt="Dragonmail">
       </a>
     </td>
     <td align="center">
-      <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square" alt="Knight Gamer">
+      <a href="https://discord.gg/qcY8mq4" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Dragonel+Community&size=square" alt="Dragonel Community">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/KenanGain" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square" alt="Kenan Gain">
+      <a href="https://github.com/DragonelGaming" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FDragonelGaming&subtitle=%2FDragonelGaming&size=square" alt="DragonelGaming">
       </a>
     </td>
   </tr>
@@ -56,7 +56,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+I'm drawn to the endless possibilities offered by game development. The ability to craft unique narratives, design captivating gameplay mechanics, and immerse players in fantastical realms is incredibly exciting. I aim to develop a strong foundation in programming languages like C++, C#, and Lua. I'm also eager to enhance my understanding of game engines, level design, and 3D modeling. By mastering these tools and techniques, I hope to contribute to the creation of innovative and memorable gaming experiences.
 
 <h3 align="center">Git Stats</h3>
 
@@ -119,49 +119,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </a>
 
 
-</div>
-<div align="center">
-  <h2 align="center" style="display: inline-flex; align-items: baseline;">
-    Socials Stats <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/connect.gif" height="30" style="margin-left: 5px;" />
-  </h2>
-</div>
-
-<div align="center">
-
-<div align="center">
-<img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord Logo"/>
-</div>
-  <h3>
-    <a href="https://discord.gg/YdDyV6QqEN">
-      Join My Discord Community
-    </a>
-  </h3>
-
-</div>
-<table>
-  <tr>
-    <!-- Discord Widget Column -->
-    <td align="center" style="border: none;">
-      <a href="https://discord.gg/qcY8mq4">
-        <img src="https://invidget.switchblade.xyz/qcY8mq4" alt="Discord Widget">
-      </a>
-      </td>
-    <!-- Discord Banner Column -->
-    <td align="center" style="border: none;">
-      <img src="https://cdn.pfps.gg/banners/4742-grass.gif" alt="Discord Banner 3"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-<img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="Youtube Logo"/>
-
-<h3 align="center" style="color: red;">YouTube Stats</h3>
-
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCeTdFUkaYLGHUBEM8ylgTtQ&layout=extruded&title_color=8aff9c&icon_color=00ffff&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@DragonelGaming)
-
-</div>
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
@@ -370,40 +327,24 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 
 
-<h2 align="center">Support Me</h2>
+<h2 align="center">❤️Support Me❤️</h2>
 <div align="center">
   <table align="center">
     <tr>
       <th align="center">
-        <a href="https://www.buymeacoffee.com/kenangain" target="_blank">
-          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://www.paypal.com/donate/?business=V6UVH9LBFUF26&no_recurring=0&currency_code=CAD" target="_blank">
+        <a href="https://paypal.me/DragonelGaming" target="_blank">
           <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
         </a>
       </th>
       <th align="center">
-        <a href="https://donate.stripe.com/00gg0R3Kvh0HcGkfYY" target="_blank">
-          <img src="https://github.com/user-attachments/assets/1b7f4d55-f85c-47ac-adcc-05d9f7cd8134" alt="Donate with Stripe" style="height: 60px; width="200px">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://ko-fi.com/M4M410M65J" target="_blank">
+        <a href="https://ko-fi.com/dragonelgaming" target="_blank">
           <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
         </a>
       </th>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/KenanGain/KenanGain/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
-      </td>
-      <td align="center">
        <img src="https://github.com/KenanGain/KenanGain/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/f7f4fefb-1a07-4390-b2ea-a4b40d4f19f6" alt="Stripe QR Code" width="150" height="150">
       </td>
       <td align="center">
         <img src="https://storage.ko-fi.com/cdn/useruploads/M4M410M65J/qrcode.png?v=73a1af41-4248-463b-a7e8-77530b34d420?v=2" alt="Ko-fi QR Code" width="150" height="150">
@@ -412,26 +353,12 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </table>
 
 
-
-<h2 align="center">📫 Let's Connect!</h2>
-
-<table align="center">
-  <tr>
-    <td colspan="3" align="center">
-      <a href="mailto:dinh5609@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=dinh5609@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
-      </a>
-    </td>
-  </tr>
-</table>
-
-
 <br>
 
 <h3>
 <div align="center">
   
-⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [DragonelGaming](https://github.com/DragonelGaming) | Let's collaborate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
