@@ -1,30 +1,20 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Dragonel Gaming</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Science;Game+Developer;AI+Engineer;AI+Annotator;YouTuber;Game+Modder;Video+Editor;" alt="Typing SVG" />
 
 </p>
 
 <p align="center">
-  Content Creator | Game Dev | Gamer
+  Content Creator | Modder | Gamer
 </p>
 
 <div align="center">
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.kenangain.com/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square" alt="Kenan Gain">
-      </a>
-    </td>
-    <td align="center">
       <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square" alt="knightgamer87">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/knightgamer87/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square" alt="knightgamer87">
       </a>
     </td>
     <td align="center">
@@ -38,17 +28,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://twitch.tv/knightgamer2910" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square" alt="knightgamer2910">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://x.com/gain_kenan" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square" alt="KenanGain">
-      </a>
-    </td>
     <td align="center">
       <a href="https://www.reddit.com/user/Automated_Artistry" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/Automated_Artistry&size=square" alt="Automated_Artistry">
@@ -439,8 +418,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:kenangain2910@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kenangain2910@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:dinh5609@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=dinh5609@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
   </tr>
