@@ -296,30 +296,30 @@ I'm drawn to the endless possibilities offered by game development. The ability 
 <table>
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=cicZ6CvEpi0"><img src="https://img.youtube.com/vi/cicZ6CvEpi0/0.jpg" alt="Knight Gamer Setup 2.0" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=cicZ6CvEpi0">Knight Gamer Setup 2.0</a></p>
+      <a href="https://www.youtube.com/watch?v=88sJRW9-9Zk"><img src="https://img.youtube.com/vi/88sJRW9-9Zk/0.jpg" alt="Angry Birds Epic Mobile Mod" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=88sJRW9-9Zk">Angry Birds Epic Mobile Mod</a></p>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=znd-OlyoNyQ"><img src="https://img.youtube.com/vi/znd-OlyoNyQ/0.jpg" alt="Bora Bora (Valorant Montage) | 1440p" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=znd-OlyoNyQ">Bora Bora (Valorant Montage) | 1440p</a></p>
+      <a href="https://www.youtube.com/watch?v=PCvVJcTKWqQ"><img src="https://img.youtube.com/vi/PCvVJcTKWqQ/0.jpg" alt="Angry Birds Epic Hack" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=PCvVJcTKWqQ">Angry Birds Epic Hack</a></p>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=CYP_E5epgEU"><img src="https://img.youtube.com/vi/CYP_E5epgEU/0.jpg" alt="Knight Gamer Logo" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=CYP_E5epgEU">Lean on</a></p>
+      <a href="https://www.youtube.com/watch?v=kq-2dP2IJxw"><img src="https://img.youtube.com/vi/kq-2dP2IJxw/0.jpg" alt="Angry Birds Go v1.8.7" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=kq-2dP2IJxw">Angry Birds Go v1.8.7</a></p>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=1HN--BxRcb4"><img src="https://img.youtube.com/vi/1HN--BxRcb4/0.jpg" alt="Epic Gameplay Montage" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=1HN--BxRcb4">Epic Gameplay Montage</a></p>
+      <a href="https://www.youtube.com/watch?v=HrD7ppQByHA"><img src="https://img.youtube.com/vi/HrD7ppQByHA/0.jpg" alt="Angry Birds Go Old Version" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=HrD7ppQByHA">Angry Birds Go Old Version</a></p>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=sdLwa-Ckri0"><img src="https://img.youtube.com/vi/sdLwa-Ckri0/0.jpg" alt="QHD 60FPS" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=sdLwa-Ckri0">QHD 60FPS</a></p>
+      <a href="https://www.youtube.com/watch?v=G9r0x8iOon8"><img src="https://img.youtube.com/vi/G9r0x8iOon8/0.jpg" alt="Can We Play Angry Birds Epic In 2024?" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=G9r0x8iOon8">Can We Play Angry Birds Epic In 2024?</a></p>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=5avcAkIMUWw"><img src="https://img.youtube.com/vi/5avcAkIMUWw/0.jpg" alt="BGMI Frag Movie" width="300"/></a>
-      <p align="center"><a href="https://www.youtube.com/watch?v=5avcAkIMUWw">BGMI Frag Movie</a></p>
+      <a href="https://www.youtube.com/watch?v=PO_UahR8dmE"><img src="https://img.youtube.com/vi/PO_UahR8dmE/0.jpg" alt="Angry Birds Go v1.11.1" width="300"/></a>
+      <p align="center"><a href="https://www.youtube.com/watch?v=PO_UahR8dmE">Angry Birds Go v1.11.1</a></p>
     </td>
   </tr>
 </table>
@@ -344,10 +344,10 @@ I'm drawn to the endless possibilities offered by game development. The ability 
     </tr>
     <tr>
       <td align="center">
-       <img src="https://github.com/DragonelGaming/DragonelGaming/blob/main/PayPal_QRCode.png" alt="PayPal QR Code" width="150" height="150">
+       <img src="https://github.com/DragonelGaming/DragonelGaming/blob/main/PayPal_QRCode.png" alt="PayPal QR Code" width="150" height="175">
       </td>
       <td align="center">
-        <img src="https://github.com/DragonelGaming/DragonelGaming/blob/main/Kofi_QRCode.png" alt="Ko-fi QR Code" width="150" height="150">
+        <img src="https://github.com/DragonelGaming/DragonelGaming/blob/main/Kofi_QRCode.png" alt="Ko-fi QR Code" width="150" height="175">
       </td>
     </tr>
   </table>
