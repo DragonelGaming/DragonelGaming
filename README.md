@@ -350,9 +350,12 @@ I'm drawn to the endless possibilities offered by game development. The ability 
     <tr>
       <td align="center">
        <img src="https://github.com/DragonelGaming/DragonelGaming/blob/main/PayPal_QRCode.png" alt="PayPal QR Code" width="150" height="175">
-      </td>
+      </td> 
       <td align="center">
         <img src="https://github.com/DragonelGaming/DragonelGaming/blob/main/Kofi_QRCode.png" alt="Ko-fi QR Code" width="150" height="175">
+      </td>
+      <td align="center">
+        <img src="https://github.com/DragonelGaming/DragonelGaming/blob/main/MoMo_QRCode.png" alt="MoMo QR Code" width="150" height="150">
       </td>
     </tr>
   </table>
